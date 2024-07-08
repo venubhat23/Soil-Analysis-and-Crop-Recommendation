@@ -52,7 +52,7 @@ Developed an advanced system that integrates machine learning and deep learning 
   D:
   cd path\to\project\folder
   
-  ### 9. Run the Project
+### 9. Run the Project
 
 - In the Anaconda Command Prompt, enter the following command to run the project:
 
