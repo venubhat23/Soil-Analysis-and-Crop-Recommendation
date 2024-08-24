@@ -1,0 +1,6 @@
+#Tensorflow
+TensorFlow is an open-source machine learning framework developed by Google. It is widely used for building, training, and deploying machine learning models, particularly in areas like deep learning, computer vision, and natural language processing. TensorFlow supports multiple platforms (CPUs, GPUs, TPUs) and languages (Python, C++, JavaScript). It includes tools like TensorFlow Lite for mobile devices, TensorFlow.js for web applications, and integrates with the Keras API for easy model building. Its flexibility, scalability, and large community make it a popular choice for both research and production use.
+
+#Keras
+
+Keras is a high-level neural networks API in Python that simplifies building and training deep learning models. It runs on top of frameworks like TensorFlow and focuses on ease of use, allowing for quick prototyping. Keras offers a simple interface to create complex models, supports pre-trained models for tasks like image classification, and is tightly integrated with TensorFlow. It's ideal for both beginners and experts in deep learning.
