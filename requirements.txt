@@ -3,10 +3,10 @@ pandas
 seaborn
 flask
 flask-socketio
-tensorflow==2.3.0
-h5py==2.10.0
+tensorflow>=2.15.0
+h5py>=2.10.0
 mysqlclient
-protobuf==3.2.0
+protobuf>=3.20.0
 scikit-learn
 numpy==1.23.5
-keras==2.2.4
+keras>=2.2.4
